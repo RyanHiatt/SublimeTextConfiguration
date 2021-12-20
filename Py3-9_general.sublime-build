@@ -1,0 +1,5 @@
+{
+    "cmd": ["/Users/ryanhiatt/PythonVenvs/py3_9_general/bin/python3", "-u", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "quiet": true
+}

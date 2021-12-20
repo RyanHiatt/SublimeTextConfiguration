@@ -1,0 +1,112 @@
+{
+	// Theme
+	"theme": "predawn-DEV.sublime-theme",
+    "color_scheme": "Packages/Predawn/predawn.tmTheme",
+
+    // Tabs Options
+    "predawn_tabs_active_underline": true,
+    "predawn_tabs_large": false,
+    "predawn_tabs_small": true,
+
+    // Sidebar Options
+    "predawn_sidebar_arrows": false,
+    "predawn_sidebar_large": false,
+    "predawn_sidebar_medium": false,
+    "predawn_sidebar_small": false,
+    "predawn_sidebar_xlarge": false,
+    "predawn_sidebar_xsmall": false,
+    "predawn_sidebar_narrow": false,
+
+    // Panel Options
+    "predawn_findreplace_small": false,
+    "predawn_quick_panel_small": false,
+
+	// Font
+	"font_face": "Source Code Pro",
+    "font_size": 14,
+    "font_options": ["gray_antialias", "subpixel_antialias", "no_round"], // On retina Mac
+
+    // Line
+    "line_padding_top": 3,
+    "line_padding_bottom": 3,
+    "highlight_line": true,
+    "caret_style": "phase",
+
+    // Syntax
+    "translate_tabs_to_spaces": true,
+    "indent_guide_options": ["draw_normal", "draw_active"],
+    "match_brackets_content": false,
+    "enable_tab_scrolling": false,
+    "show_encoding": true,
+    "draw_white_space": "none",
+
+    // System
+    "swallow_startup_errors": true,
+    "use_simple_full_screen": true,
+    "close_windows_when_empty": false,
+    "trim_trailing_white_space_on_save": true,
+    "ensure_newline_at_eof_on_save": true,
+    "open_files_in_new_window": false,
+
+    // Sidebar and Tabs
+    "sidebar_default": true,
+    "scroll_speed": 5.0,
+    "mini_diff": false,
+    "bold_folder_labels": true,
+    "highlight_modified_tabs": true,
+
+    // Minimap, Scrollbars, Tabs
+	"always_show_minimap_viewport": true,
+    "overlay_scroll_bars": "enabled",
+
+	// Usage
+    "preview_on_click": false,
+    "drag_text": false,
+    "show_definitions": false,
+    "show_errors_inline": false,
+    "word_wrap": false,
+    "scroll_past_end": true,
+
+    // Inclusion and Exclusion
+	"file_exclude_patterns":
+    [
+        "*.pyc",
+        "*.pyo",
+        "*.exe",
+        "*.dll",
+        "*.obj",
+        "*.o",
+        "*.a",
+        "*.lib",
+        "*.so",
+        "*.dylib",
+        "*.ncb",
+        "*.sdf",
+        "*.suo",
+        "*.pdb",
+        "*.idb",
+        ".DS_Store",
+        "*.class",
+        "*.psd",
+        "*.sublime-workspace"
+    ],
+    "ignored_packages":
+    [
+        "ActionScript",
+        "AppleScript",
+        "ASP",
+        "D",
+        "Diff",
+        "Erlang",
+        "Graphviz",
+        "Groovy",
+        "HTML-CSS-JS Prettify",
+        "Lisp",
+        "Lua",
+        "Objective-C",
+        "OCaml",
+        "Rails",
+        "Ruby",
+        "Vintage",
+    ],
+}

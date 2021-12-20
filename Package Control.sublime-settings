@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"BracketHighlighter",
+		"Djaneiro",
+		"Emmet",
+		"GitGutter",
+		"MarkdownPreview",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+	],
+	"in_process_packages":
+	[
+	],
+}
