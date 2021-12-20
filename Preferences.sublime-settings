@@ -23,7 +23,7 @@
 
 	// Font
 	"font_face": "Source Code Pro",
-    "font_size": 14,
+    "font_size": 15,
     "font_options": ["gray_antialias", "subpixel_antialias", "no_round"], // On retina Mac
 
     // Line
